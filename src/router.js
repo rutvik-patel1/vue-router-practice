@@ -33,16 +33,3 @@ const router = createRouter({
 
 export default router
 
-
-// import { createWebHistory, createRouter } from 'vue-router'
-
-
-// const router = createRouter({
-//   history: createWebHistory(),
-//   routes: [
-//     { path: '/', name: 'Home', component: Home },
-//     { path: '/about', name: 'About', component: About },
-//   ]
-// })
-
-// export default router
